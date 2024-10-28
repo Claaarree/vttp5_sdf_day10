@@ -1,3 +1,4 @@
+package minimax;
 public class minimax {
 
     public int calculateLevel(int n){
